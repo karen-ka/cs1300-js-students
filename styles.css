@@ -1,0 +1,15 @@
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.holder {
+    display: inline-grid;
+    /* width: 30%; */
+}
+
+#content {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+}
